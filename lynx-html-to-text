@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # lynx-html-to-text:
-# use the lynx web browser to convert HTML to plain text
+# use the lynx browser to convert HTML to text
 #
 # Syntax:
 #

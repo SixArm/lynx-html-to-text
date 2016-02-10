@@ -1,4 +1,4 @@
-# lynx-html-to-text:<br>use the lynx web browser to convert HTML to plain text
+# lynx-html-to-text:<br>use the lynx browser to convert HTML to text
 
 Syntax:
 
